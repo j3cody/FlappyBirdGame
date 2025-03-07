@@ -6,7 +6,7 @@ A responsive and touch-enabled version of the classic Flappy Bird game built usi
 
 ## Demo
 
-Check out the live demo here: [Live Demo]([https://your-demo-link.com](https://j3cody.github.io/FlappyBirdGame/))
+Check out the live demo here: [Live Demo]([[https://your-demo-link.com](https://j3cody.github.io/FlappyBirdGame/)])
 
 ## Features
 
