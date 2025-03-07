@@ -2,7 +2,7 @@
 
 A responsive and touch-enabled version of the classic Flappy Bird game built using HTML, CSS, and JavaScript.
 
-![Flappy Bird Banner](/flappybirdgame/NicePng_flappy-bird-background-png_3520144.png)
+![Flappy Bird Banner](/NicePng_flappy-bird-background-png_3520144.png)
 
 ## Demo
 
